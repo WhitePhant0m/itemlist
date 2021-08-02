@@ -6663,46 +6663,6 @@
     {
       "data": {
         "stats": [
-          "+50.00 Mass",
-          "+30% Flammability",
-          "+3500.00 Market value",
-          "+5.00 Move speed",
-          "+40% Mental break threshold",
-          "+42.0C Maximum comfortable temperature",
-          "+10.0C Minimum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+70 Carrying capacity",
-          "+55 Meat amount",
-          "+55 Leather amount",
-          "+80% Pain shock threshold",
-          "+130.00% Negotiation ability",
-          "+120% Sell price multiplier",
-          "+120.00% Social impact",
-          "+110% Mechanoid shredding efficiency",
-          "+110% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+90% Research speed",
-          "+70% Mining speed",
-          "+105% Butchery efficiency",
-          "+90% Butchery speed",
-          "+80.00% Food poison chance",
-          "+1.1 Cooking speed",
-          "+110% Rest rate multiplier",
-          "+80% Plant work speed"
-        ],
-        "mod": "Kurin HAR Edition",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "An all-female race of humans spliced with fox genes. Originally, they were Glitterworld designermates from the planet Aolara, but an internal war forced them to leave their homeworld. Now they are spread among the rim.\n<i><color=#66E0E4FF>Kurin HAR Edition</color></i>",
-      "defName": "Kurin_Race",
-      "enabled": true,
-      "name": "Kurin",
-      "price": 6000
-    },
-    {
-      "data": {
-        "stats": [
           "+450.00 Mass",
           "+18000.00 Market value",
           "+4.80 Move speed",
